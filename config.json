@@ -3,7 +3,7 @@
 	"port": "47782",
 	"name": "azurabt",
 	"auto-night-skip":"false",
-	"login-enabled":"false",
+	"login-enabled":"true",
 	"register-cmd":"/register pass123 ",
 	"login-cmd":"/login pass123 "
 }
