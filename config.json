@@ -1,7 +1,7 @@
 {
 	"ip":"luckylandsmp.aternos.me",
 	"port": "47782",
-	"name": "BotServerOn",
+	"name": "azurabt",
 	"auto-night-skip":"false",
 	"login-enabled":"false",
 	"register-cmd":"/register pass123 ",
